@@ -2,6 +2,9 @@ var mongoose = require('./mongoDB');
 var User = require('./MongooseSchema');
 
 
+//this file has few function of Mongodb 
+
+
 // create a new user called chris
 var Gaurav = new User({
   name:"GauravGupta",

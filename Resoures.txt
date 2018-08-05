@@ -1,0 +1,14 @@
+How to properly make REST calls from ReactJS + Redux application?
+
+=> https://stackoverflow.com/questions/38728884/how-to-properly-make-rest-calls-from-reactjs-redux-application
+
+How call a redux action with an argument and access from the reducer?
+
+=> https://stackoverflow.com/questions/35760749/how-call-a-redux-action-with-an-argument-and-access-from-the-reducer
+
+React axios highorder error handler component
+
+=> https://gist.github.com/ShawnRong/cbc24fe3f9a3fa8cd2e26d2c17be34d3
+
+// usefull Source of Info 
+// mudium.com

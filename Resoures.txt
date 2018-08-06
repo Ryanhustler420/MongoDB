@@ -10,6 +10,10 @@ React axios highorder error handler component
 
 => https://gist.github.com/ShawnRong/cbc24fe3f9a3fa8cd2e26d2c17be34d3
 
+Top 10 Mistakes Node.js Developers Make
+
+=> https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
 // usefull Source of Info 
 // mudium.com
 //statckoverflow.com
